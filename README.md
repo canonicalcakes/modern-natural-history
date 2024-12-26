@@ -1,3 +1,3 @@
 # modern-natural-history
 
-[[Preface]]
+[Preface](Preface.md)
